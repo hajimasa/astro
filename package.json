@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.5.6"
+    "@astrojs/cloudflare": "^6.3.0",
+    "astro": "^2.5.7",
+    "microcms-js-sdk": "^2.5.0"
   }
 }
